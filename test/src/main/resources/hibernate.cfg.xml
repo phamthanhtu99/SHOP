@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="hibernate.connection.password">123456</property>
+        <property name="hibernate.connection.username">root</property>
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/shopbanhang</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+        <property name="show_sql">true</property>
+        <mapping class="org.example.persistence.data.NhanVienEntity"/>
+        <mapping class="org.example.persistence.data.ChucVuEntity"/>
+        <mapping class="org.example.persistence.data.KhachHangEntity"/>
+        <mapping class="org.example.persistence.data.loaisanphamEntity"/>
+        <mapping class="org.example.persistence.data.sanphamEntity"/>
+        <mapping class="org.example.persistence.data.nhacungcapEntity"/>
+        <mapping class="org.example.persistence.data.binhluanEntity"/>
+        <mapping class="org.example.persistence.data.nhasanxuatEntity"/>
+        <mapping class="org.example.persistence.data.phieunhapEntity"/>
+        <mapping class="org.example.persistence.data.chitietphieunhapEntity"/>
+        <mapping class="org.example.persistence.data.tinhtrangEntity"/>
+        <mapping class="org.example.persistence.data.hoadonEntity"/>
+        <mapping class="org.example.persistence.data.phuongthucthanhtoanEntity"/>
+        <mapping class="org.example.persistence.data.chitiethoadonEntity"/>
+        <mapping class="org.example.persistence.data.nhanvienquanlyhoadonEntity"/>
+        <mapping class="org.example.persistence.data.hinhanhEntity"/>
+
+    </session-factory>
+</hibernate-configuration>

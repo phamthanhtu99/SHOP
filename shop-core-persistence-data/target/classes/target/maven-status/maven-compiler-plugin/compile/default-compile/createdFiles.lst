@@ -1,0 +1,11 @@
+org\example\persistence\data\sanphamEntity.class
+org\example\persistence\data\nhacungcapEntity.class
+org\example\persistence\data\KhachHangEntity.class
+org\example\persistence\data\phieunhapEntity.class
+org\example\persistence\data\ChucVuEntity.class
+org\example\persistence\data\NhanVienEntity.class
+org\example\persistence\data\nhasanxuatEntity.class
+org\example\persistence\data\chitietphieunhap.class
+org\example\persistence\data\loaisanphamEntity.class
+org\example\persistence\data\binhluanEntity.class
+org\example\persistence\data\chitietphieunhapEntity.class

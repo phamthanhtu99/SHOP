@@ -1,0 +1,16 @@
+org\example\service\loaisanphamService.class
+org\example\service\KhachHangService.class
+org\example\service\hoadonService.class
+org\example\service\nhanvienService.class
+org\example\service\phieunhapServiec.class
+org\example\service\chitietnhapService.class
+org\example\service\nhacungcapService.class
+org\example\service\binhluanService.class
+org\example\service\hinhanhService.class
+org\example\service\sanphamService.class
+org\example\service\chitiethoadonService.class
+org\example\service\nhasanxuatService.class
+org\example\service\nhanvienquanlyhoadonService.class
+org\example\service\hienthiSerice.class
+org\example\service\phuongthucthanhtoanService.class
+org\example\service\chucvuService.class

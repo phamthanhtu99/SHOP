@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shop-core-persistence-data" />
+        <module name="test" />
+        <module name="shop-core-serviceimpl" />
+        <module name="shop-core-dto" />
+        <module name="Shop-web" />
+        <module name="shop-core-comon" />
+        <module name="shop-core-web" />
+        <module name="shop-core-service" />
+        <module name="Shop-core-dao" />
+        <module name="Shop-web-logic" />
+        <module name="Shop-core-daoImpl" />
+        <module name="shop-core-data" />
+        <module name="shop-core-utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shop-web-logic" target="1.5" />
+      <module name="shop-weblogic" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

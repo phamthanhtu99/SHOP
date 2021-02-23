@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+input[type="radio"] {
+    border: 0px;
+    width: 2%;
+    height: 2em;
+    margin-left: 68px;
+}
+
+button.hnf.btn.btn-danger {
+    margin-top: 30px;
+}
+
+.col-xl-3.col-md-6.mb-4 {
+    height: 90px;
+}
+span.hide-menu {
+ /*   color: #1d1c1c;*/
+    font-size: 19px;
+}
+
+aside.left-sidebar.th {
+    background: #9595a7;
+}
+
+i.fas.fa-user-times.ht {
+    margin-left: 11px;
+    margin-right: 22px;
+}
+
+.phai {
+    margin-bottom: 10px;
+}
+
+input.form-control.col-3.float-xl-left {
+    margin-right: 5px;
+}
+
+button.bg-success.sd {
+    margin-left: 6px;
+}
+
+i.fa.fa-2.fa-search-plus {
+    margin-top: 11px;
+    margin-bottom: 3px;
+    margin-left: 17px;
+    margin-right: 20px;
+}
+
+button.chinh {
+    float: right;
+    height: 26px;
+    font-size: 12px;
+}
+
+i.fa.fa-2x.fa-address-card {
+    float: right;
+}

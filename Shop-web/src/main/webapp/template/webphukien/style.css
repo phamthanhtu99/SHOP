@@ -1,0 +1,920 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.row.ht1 {
+    height: 400px;
+}
+
+.row.sild {
+    margin-left: 1px;
+    margin-top: 13px;
+}
+
+.giaca {
+    height: 10%;
+}
+
+.top5 {
+    margin-top: 36px;
+}
+
+.form-group.th {
+    margin-left: 7px;
+}
+
+.col-lg-3.thongtinthanhtoan {
+    margin-left: -12px;
+    margin-bottom: 225px;
+}
+
+.col-lg-3.thongtinthanhtoan {}
+
+.row.k {
+    font-size: 24px;
+    color: cadetblue;
+}
+
+.row.cssbinhluan {
+    margin-top: 5px;
+    /* font-size: 22px; */
+}
+
+.row.cssbinhluan {
+    margin-left: 27px;
+}
+
+.khungbinhluan {
+    border: 1px solid honeydew;
+    margin-top: 10px;
+}
+
+button.binhluan {
+    float: right;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+    background: #4ad611;
+    border: double;
+}
+
+button.binhluan :hover {
+    color: rebeccapurple;
+}
+
+i.fa.fa-search {
+    width: 18px;
+    height: 31px;
+    padding-top: 4px;
+}
+
+
+.th1 {
+    float: right;
+    font-size: 18px;
+    color: #7d3333;
+    text-align: center;
+    margin-right: 20px;
+}
+
+a.button:hover {}
+
+a.button {
+    color: #fbfbfb;
+}
+
+.thanhb {
+    height: 48px;
+    width: 209px;
+    margin-top: 16px;
+    /* margin-right: -66px; */
+}
+
+a.button {
+    text-decoration: none;
+}
+
+.th {
+    margin-left: 47px;
+}
+
+h2 {}
+
+.t1 {
+    font-size: 20px;
+    float: right;
+    margin-right: 20px;
+}
+
+.mn {
+    margin-top: 23px;
+    border-bottom: 3px solid #ececec;
+}
+
+.trtable {
+    border-bottom: 1px solid #e6dbdb;
+}
+
+.thongtinthanhtoan {
+    border-left: 2px solid beige;
+    height: 200px;
+    margin-top: 51px;
+}
+
+p.t {
+    margin: 2px;
+}
+
+.row.phieu {
+    margin-left: -8px;
+    margin-top: 37px;
+    margin-right: 3px;
+    border-left: 1px solid  whitesmoke;
+    height: 400px;
+    /* margin-right: -16px; */
+    /* border-bottom: 1px solid; */
+}
+
+p.t {
+    float: left;
+    margin-right: 129px;
+    font-size: 18px;
+}
+
+tr.vien {
+    border-bottom: 1px solid;
+    margin-bottom: 29px;
+}
+.trtable img {
+    margin: 5px;
+}
+
+
+.ttoan {
+    border-left: 1px;
+    text-align: center;
+}
+
+.thanhtoan h2 {
+    margin: 13px;
+    text-align: center;
+}
+
+.thanhtoan {
+    border-left: 1px solid;
+    height: auto;
+}
+
+.nav-tabs li a {
+    border-radius: 0px;
+}
+
+.container.thong-tin {
+    padding: 0px;
+    margin-top: 15px;
+}
+
+.container.noidung {
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid #902c2c;
+    height: 500px;
+}
+
+.hinh img.anhsp.responsive {
+    width: 100%;
+}
+
+.chitiet p {
+    margin-top: 25px;
+}
+
+.btn-them-sp {
+    margin-left: 112px;
+    border-radius: 55px;
+}
+
+input.input-text.so-sp.qty.text {
+    width: 48px;
+}
+
+input.nuttang {
+    padding: 1px 6px;
+    border-radius: 0 32px 32px 0;
+}
+
+input.nutgiam {
+    padding: 1px 6px;
+    border-radius: 32px 0 0 32px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.top5 .vechungtoi p i {
+    padding-right:  8px;
+}
+
+.top5 .container >p {
+    color:  #fff;
+    text-align:  center;
+    padding:  15px 0;
+    font-size:  16px;
+}
+
+.top5 .guilienhe ul li a {
+    text-decoration:  none;
+    color: #131623;
+    font-size:  14px;
+}
+
+.top5 .guilienhe li {
+    list-style-type: none;
+    display:  inline-block;
+    border: 1px solid;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    line-height: 25px;
+    text-align:  center;
+    background:  #fff;
+    margin:  0 7px;
+}
+
+.top5 .guilienhe button.btn.btn-primary {
+    border-radius:  0;
+    height:  41px;
+    width: 55px;
+}
+
+.top5 .guilienhe input.form-control {
+    height: 41px;
+    border-radius:  0;
+    float:  left;
+    width: 244px;
+}
+
+.top5 .guilienhe {
+    padding-left: 61px;
+    color: #f1f1f1;
+    font-size:  15px;
+}
+
+.top5 .vechungtoi {
+    padding-right:  78px;
+}
+
+.top5 .vechungtoi p {
+    font-size:  15px;
+    color: #f1f1f1;
+}
+
+.top5 .htkh li:hover >a {
+    color: #f1592a;
+    transition:  0.3s;
+}
+
+.top5 .htkh li a {
+    text-decoration:  none;
+    color: #f1f1f1;
+    font-size: 15px;
+}
+
+.top5 {
+    background: #131623;
+    padding-top:  25px;
+}
+
+.top5 .htkh li {
+    padding:  10px 0;
+    border-top: 1px solid #525253;
+}
+
+.top5 ul.htkh {
+    list-style-type:  none;
+    padding-right: 114px;
+    margin-top:  24px;
+}
+
+.top5 .col-xs-4.col-sm-4.col-md-4.col-lg-4.khachhang {
+    padding:  0;
+}
+
+.top5 h2 {
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.top5 .guilienhe h2 {
+    margin-bottom:  21px;
+}
+
+.top5 .vechungtoi h2 {
+    margin-bottom: 23px;
+}
+
+.top4 .box6 {
+    margin: 20px 0px;
+}
+
+.top4 .box6 .quangcao3 >div {
+    height: 105px;
+    line-height: 105px;
+}
+
+.top4 .quangcao3 {
+    border: 1px dashed #000;
+    padding: 28px 0;
+}
+
+.top4 .box5 .dienthoai {padding-left: 0;}
+
+.top4 .box5 .khungtreo {
+    padding-right:  0;
+}
+
+.top4 img {
+    cursor:  pointer;
+    height: 190px;
+    width: 238px;
+}
+
+.top4 .box6 .quangcao3 img {max-width:  100%;}
+
+.top4 .box6 .quangcao3 div {padding: 0 35px;}
+
+.top4 .box5 img.anhsp.responsive {
+    float:  left;
+    padding-right: 10px;
+}
+
+.de2 li.li2 h2 {
+    border-right: 1px solid #000;
+}
+
+.de2 {
+    position:  relative;
+    margin-top:  23px;
+    border-bottom: 1px solid #e7e7e7;
+    margin-bottom:  21px;
+}
+
+.de2 img {
+    float:  left;
+    position:  absolute;
+    top: 20px;
+}
+
+.de2 a {
+    text-decoration:  none;
+    color:  #000;
+}
+
+.de2 li {display:  inline-block;}
+
+.de2 h2 {
+    padding: 0 10px;
+}
+
+.de2 li.li1 h2 {
+    border-right:  1px solid #000;
+    padding-left:  0px;
+}
+
+.de2 ul {list-style-type:  none;padding-left:  34px;}
+
+.quangcao1 {
+    padding-left:  0;
+}
+
+.quangcao1,.quangcao2 {
+    margin-top:  14px;
+}
+
+.top4 .xam a.btn.btn-primary.muangay {
+    border-radius:  0;
+    font-size: 17px;
+    width: 153px;
+    background: #0795d3;
+}
+
+.top4 .xam a.btn.btn-primary.muangay:hover {
+    background:  red;
+    border-color:  red;
+    transition: all 0.4s;
+}
+
+.top4 .xam >p {
+    margin-bottom:  0;
+}
+
+.top4 .giaca p {
+    font-size: 17px;
+    margin-top: 5px;
+    color: red;
+}
+
+.top4 .caption.xam {
+    margin-top:  15px;
+    padding-left:  0;
+    padding-bottom:  0;
+}
+
+.top4 .box5 .caption.xam {
+    padding-bottom: 34px;
+    margin-top:  3px;
+}
+
+.top4 .giaca b {
+    font-size: 18px;
+    cursor:  pointer;
+}
+
+.top4 .giaca b:hover {
+    color:  red;
+    transition:  0.2s;
+}
+
+.thumbnail.hang {
+    padding: 19px;
+    border-radius:  0;
+    min-height: 361px;
+}
+
+.top4 .box5 .thumbnail.hang {
+    margin-bottom:  0;
+    border-bottom:  none;
+}
+
+.top4 .box5 .thumbnail.hang.caicuoi {
+    border-bottom:  1px solid #e7e7e7;
+    margin-bottom:  16px;
+}
+
+.col-xs-3.col-sm-3.col-md-3.col-lg-3.spnb {
+    padding: 0 3px;
+}
+
+.top4 .container h2 b:hover {
+    color:  red;
+    transition:  0.2s;
+}
+
+.top4 .container .de {
+    border-bottom: 1px solid #e7e7e7;
+    margin-bottom: 29px;
+    padding-bottom: 3px;
+}
+
+.top4 .container .de >img {
+    float:  left;
+    padding-right:  11px;
+}
+
+.top4 .container h2 {font-size:  25px;cursor:  pointer;}
+
+.quangcao .anhqc {
+    margin: 6px 0 19px 0;
+}
+
+.top3 .anh {
+    margin-top:  4px;
+    padding: 0;
+}
+
+.anh .slide img {
+}
+
+.top3 span.fa.fa-angle-left.truoc, .top3 span.fa.fa-angle-right.truoc {position:  absolute;top: 233px;width: 40px;height: 40px;line-height: 40px;background: #00000082;left: 21px;overflow:  hidden;}
+
+span.fa.fa-angle-right.truoc:hover .sau,span.fa.fa-angle-left.truoc:hover .sau {
+    top: 0;
+    transition: 0.4s;
+}
+
+
+.top3 span.fa.fa-angle-left.sau, .top3 span.fa.fa-angle-right.sau {
+    top: 40px;
+    left: 0px;
+    background: #e27587;
+    z-index:  90;
+    position:  absolute;
+    width: 40px;
+    height:  40px;
+    line-height:  40px;
+}
+
+
+.top3 a.left.carousel-control,.top3 a.right.carousel-control {
+    background-image:  none;
+    opacity:  .9;
+}
+
+ul.menudoc {padding: 0 12px;margin-bottom:  0;color: red;}
+
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-prev, .carousel-control .icon-next {
+    width:  35px;
+    position:  absolute;
+    left:  34px;
+    height:  35px;
+    line-height:  35px;
+    background:  #fff;
+}
+
+.menucon li.mucnho {padding: 15px 0;border-bottom:  1px solid #e7e7e7;position:  relative;}
+
+.menucon li.mucnho:hover >a {
+    color: red;
+    transition:  0.4s;
+}
+
+.menucon li.mucnho:hover >hr {width: 100%;transition:  0.5s;}
+
+.menucon .mucnho >a {
+    color: #000;
+    text-decoration: none;
+    display:  block;
+}
+
+.menucon .mucnho >hr {height:  1px;width: 0;background: red;color:  red;margin: 0px;position:  absolute;top: 49px;}
+
+ul.menucon {
+    position:  absolute;
+    top: -1px;
+    left: calc(100% + 60px);
+    min-width:  240px;
+    list-style-type:  none;
+    border: 1px solid #e4e3e3;
+    z-index: 100;
+    visibility: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.22);
+    opacity: 0;
+    background:  #fff;
+    padding:  0 11px;
+    transition: visibility,opacity,0.2s;
+}
+
+.box .menudoc li.muc:hover i.fa.fa-angle-right {
+    color:  red;
+}
+
+.menudoc .muc i.fa.fa-angle-right {
+    position:  absolute;
+    top: 18px;
+    left: 234px;
+}
+
+.menudoc .muc >hr {
+    margin:  0;
+    z-index:  10;
+    color: red;
+    width: 0;
+    height:  1px;
+    background: red;
+    position: absolute;
+    top: 49px;
+}
+
+.top3 {
+    margin-top:  10px;
+    z-index:  2;
+}
+
+.box .menudoc li.muc:hover >a {
+    color:  red;
+    transition: 0.9s all;
+}
+
+.box .menudoc .muc i.fa.fa-laptop {
+    padding-right:  5px;
+    float: left;
+    position:  absolute;
+    top: 17px;
+}
+
+.box .menudoc li.muc {
+    list-style-type:  none;
+    position:  relative;
+    padding: 15px 0;
+    border-bottom:  1px solid #e7e7e7;
+}
+
+.box .menudoc li.muc:hover >.menucon {
+    visibility:  visible;
+    left: calc(100% + 14px);
+    opacity:  1;
+    transition: 0.5s all;
+}
+
+.box .menudoc li.muc:hover >hr {
+    width: 100%;
+    transition: 0.9s all;
+}
+
+.box .menudoc .muc >a {
+    color: #000000;
+    text-decoration: none;
+    display:  block;
+    padding-left:  20px;
+}
+
+.box {
+    padding:  0;
+}
+
+.danhmuc .tieude a {
+    color:  #fff;
+    padding: 10px 15px;
+    font-size: 18px;
+    display:  block;
+    text-decoration:  none;
+    text-transform:  uppercase;
+}
+
+.danhmuc .tieude a:hover {
+    color:  #fff;
+}
+
+.menutrai {
+    background:  #fff;
+    border:  1px solid #e7e7e7;
+}
+
+.tieude {
+    float:  none;
+    background: #0795d3;
+}
+
+.sub-menu li {height:  46px;line-height:  45px;width:  200px;border-bottom: 1px dashed rgba(255,255,255,0.5);transition: 0.5s;}
+
+.sub-menu li:hover {
+    background: #28489e;
+}
+
+ul.sub-menu {
+    background: #100000;
+    color:  #fff;
+    list-style-type:  none;
+    left: 0px;
+    top: 118px;
+    opacity: 0;
+    position: absolute;
+    overflow:  hidden;
+    z-index: 80;
+    visibility:  hidden;
+    transition: opacity,visiibility,0.1s;
+}
+
+.top1 {
+    margin-top: 16px;
+}
+
+.danhsach .muc:hover {
+    background: #28489e;
+}
+
+.danhsach a {
+    text-decoration:  none;
+}
+
+.trangchu {
+    background: #28489e;
+}
+
+.top2 {
+    margin-top: 19px;
+    background: #0795d3;
+}
+
+
+
+ul.danhsach {
+    margin:  0;
+}
+
+
+.danhsach .muc {padding: 20px 21px;transition: 0.4s;list-style-type:  none;float:  left;position: relative;}
+
+.muc:hover .sub-menu {opacity:  90;top: 66px;visibility:  visible;transition:  opacity,0.1s,top,0.5s;}
+
+
+.danhsach .muc a {
+    color: #fff;
+    font-size: 16px;
+    text-transform:  uppercase;
+}
+
+.sub-menu a {
+    padding:  16px;
+}
+
+.top {padding-top:  12px;}
+
+.col-xs-3.col-sm-3.col-md-3.col-lg-3.thoigian {
+    padding:  23px 0px 0 0;
+}
+
+.cainay {
+    font-size:  15px;
+}
+
+.thoigian .cainay i {
+    float:  left;
+    color:  red;
+    padding-right:  6px;
+}
+
+.timkiem button {
+    background: #28489e;
+    border: 0;
+    font-size: 25px;
+    padding: 0 8px;
+}
+
+.timkiem .form-group {
+    margin-top:  26px;
+    background: #28489e;
+    width: 100%;
+    border-radius: 9px;
+    padding: 3px 0;
+}
+
+.timkiem input.form-control {
+    width: 89%;
+    float:  left;
+    color:  #fff;
+    background: #28489e;
+    border:  0;
+}
+
+.lienhe {
+    padding-top: 39px;
+    font-size: 19px;
+    color:  red;
+}
+/*Ipad ngang(1024 x 768)*/
+@media screen and (max-width: 1024px){
+    *{
+
+    }
+
+
+
+    .top4 .box2 .quangcao1 img {
+        padding: 0 0 0 15px;
+    }
+
+    .top4 .box2 img {
+        width:  100%;
+    }
+
+    .top1 .container .row img {
+        width:  81%;
+    }
+
+    .lienhe {
+        padding:  36px 0 0 0;
+    }
+
+    .timkiem input.form-control {
+        width:  86%;
+    }
+}
+@media screen and (max-width: 768px){
+    *{
+
+    }
+
+    .menudoc .muc i.fa.fa-angle-right {
+        left:  311px;
+    }
+
+    .box .menudoc li.muc .menucon {
+        top: 0;
+        left:  0;
+    }
+
+    .box .menudoc li.muc:hover >.menucon {
+        left: 0px;
+        position: inherit;
+        border: 0;
+        box-shadow: none;
+        top: 23px;
+    }
+
+    .box .menudoc li.muc:visited >.menucon {
+        left: 0px;
+        position: inherit;
+        border: 0;
+        box-shadow: none;
+        top: 23px;
+    }
+
+    .top4 .container h2 {
+        font-size:  20px;
+    }
+
+    .anh {
+        display:  none;
+    }
+
+    .thoigian {
+        padding-top:  16px;
+    }
+
+    .timkiem input.form-control {
+        width:  82%;
+    }
+}
+
+
+/* Position the image container (needed to position the left and right arrows) */
+
+/* Hide the images by default */
+.mySlides {
+    display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+    cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+    cursor: pointer;
+    position: absolute;
+    top: 40%;
+    width: auto;
+    padding: 62px;
+    margin-top: -4px;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+    margin-left: -34px;
+    margin-right: -17px;
+}
+
+/* Position the "next button" to the right */
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+button.col-sm-3.nht.btn-danger {
+    height: 39px;
+}
+
+
+/* On hover, add a black background color with a little bit see-through */
+/*.prev:hover,
+.next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}*/
+
+/* Number text (1/3 etc) */
+.numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+}
+
+/* Container for image text */
+.caption-container {
+    text-align: center;
+    background-color: #222;
+    padding: 2px 16px;
+    color: white;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Six columns side by side */
+.column {
+    float: left;
+    width: 16.66%;
+}
+
+/* Add a transparency effect for thumnbail images */
+.demo {
+    opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+    opacity: 1;
+}
